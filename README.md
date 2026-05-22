@@ -30,6 +30,31 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+# USE CASE:
+![alt text](<Screenshot 2026-05-20 081319.png>)
+
+
+# CLASS DAIGRAM:
+![alt text](<Screenshot 2026-05-22 200457.png>)
+
+
+# COMMUNICATION DIAGRAM:
+![alt text](<Screenshot 2026-05-20 134717.png>)
+
+
+# PACKAGE DIAGRAM:
+![alt text](<Screenshot 2026-05-20 135719.png>)
+
+
+# ACTIVITY DIAGRAM:
+![alt text](<Screenshot 2026-05-20 141941.png>)
+
+
+# SEQUENCE DIAGRAM
+![alt text](<Screenshot 2026-05-20 134442.png>)
+
+
+
 
 # USE CASE DIAGRAM
 
