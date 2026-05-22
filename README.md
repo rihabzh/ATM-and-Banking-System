@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: RIHAB ZAKKAIR HUUSAIN 
+# Name: 212225230226
+# Date: 19-5-26
 
 
 # AIM:
